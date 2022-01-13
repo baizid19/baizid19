@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baizid19
+- 👋 Hi, I’m @baizid
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...machine learning and artificial intelligence and its industrial apply
 - 💞️ I’m looking to collaborate on ...
